@@ -2,6 +2,10 @@
 
 ### Independent Software Developer · Game Developer · Open Source Enthusiast
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anasbex-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 Building software, exploring game technology, and turning ideas into practical digital experiences.
 
 I'm an independent developer passionate about software engineering, game development, and building tools from the ground up. I enjoy exploring how things work beneath the surface, experimenting with new technologies, and creating projects that combine creativity with engineering.
@@ -38,7 +42,7 @@ I'm an independent developer passionate about software engineering, game develop
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Runtime
 
