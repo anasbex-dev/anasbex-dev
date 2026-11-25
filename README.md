@@ -14,12 +14,12 @@ I'm an independent developer passionate about software engineering, game develop
 
 ## About Me
 
-- 🔭 Currently building **AB Engine**, a custom hybrid 2D/3D game engine.
-- 🌱 Exploring graphics programming, rendering systems, and game engine architecture.
-- 💻 Interested in software engineering, game development, and open-source projects.
-- 🎮 Working with Godot, Blender, and Roblox Studio.
-- ⚙️ Building developer tools and experimenting with low-level programming.
-- 💬 Open to discussions, collaboration, and interesting projects.
+-  Currently building **AB Engine**, a custom hybrid 2D/3D game engine.
+-  Exploring graphics programming, rendering systems, and game engine architecture.
+-  Interested in software engineering, game development, and open-source projects.
+-  Working with Godot, Blender, and Roblox Studio.
+-  Building developer tools and experimenting with low-level programming.
+-  Open to discussions, collaboration, and interesting projects.
 
 ---
 
